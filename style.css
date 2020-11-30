@@ -571,7 +571,7 @@ h4 {
 /* Latest Products */
 
 .latest__products{
-  background-color: var(--white);
+  background-color: red;
 }
 
 .title__container {
